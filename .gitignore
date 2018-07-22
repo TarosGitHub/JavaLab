@@ -9,6 +9,7 @@
 .classpath
 .settings
 .metadata
+.recommenders
 
 # Idea
 .idea
