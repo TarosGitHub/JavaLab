@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<top>
+<?xml version="1.0" encoding="UTF-8"?><top>
   <!-- First element -->
   <first id="0001">
     <one>first one value</one>
@@ -13,5 +12,5 @@
     <three>second three value</three>
   </second>
   <!-- Empty element -->
-  <third />
+  <third/>
 </top>
